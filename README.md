@@ -213,14 +213,14 @@ Metode numerik untuk mencari akar fungsi dengan membagi interval menjadi dua bag
 - Test kode sebelum commit
 - Backup data penting
 
-## 🔗 Link Berguna
+## 🔗 Link Dokumentasi
 
 - [Python Virtual Environment](https://docs.python.org/3/tutorial/venv.html)
 - [Jupyter Documentation](https://jupyter.org/documentation)
 - [NumPy Documentation](https://numpy.org/doc/)
 - [Matplotlib Documentation](https://matplotlib.org/)
 
-## 📞 Bantuan
+## ❌ Error?
 
 Jika ada masalah:
 1. Cek status venv: `echo $VIRTUAL_ENV`
